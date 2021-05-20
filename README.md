@@ -1,0 +1,1 @@
+# rsyslog4splunk
